@@ -1,2 +1,3 @@
 # bridge-simple
-An faster implementation of the BRIDGE keyword in Plumed
+This repository contains a fast implementation of the BRIDGE keyword for
+Plumed 2.
